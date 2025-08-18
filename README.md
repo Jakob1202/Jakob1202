@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jakob1202&layout=compact&langs_count=8&theme=radical)
+
+
 <!--
 **Jakob1202/Jakob1202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
