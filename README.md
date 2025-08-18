@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'am Jakob Nord Lundby 👋
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jakob1202&layout=compact&langs_count=8&theme=radical)
 
