@@ -2,7 +2,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jakob1202&layout=compact&langs_count=8&theme=radical)
 
-🎓 I'm a Industrial Econonomics and Technology Managment M.Sc. student at NTNU (Norwegian University of Science and Technology), currently in my third year, specializing in Computer Science with Artificial Intelligence.
+🎓 I'm a Industrial Econonomics and Technology Managment M.Sc. student at NTNU (Norwegian University of Science and Technology), currently in my fourth year, specializing in Computer Science with Artificial Intelligence.
 
 <!--
 **Jakob1202/Jakob1202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
